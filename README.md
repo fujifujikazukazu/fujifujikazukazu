@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm 藤沢一希</h1>
+<h1 align="center">Hi 👋, I'mfujifujikazukazu
+</h1>
 <h3 align="center">株式会社シアトルコンサルティングに2021年1月より中途入社 フロントエンドを中心に活動しています。</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gunners6518&label=Profile%20views&color=0e75b6&style=flat" alt="gunners6518" /> </p>
